@@ -34,7 +34,6 @@ public class Task3 {
         if (iloscElementow == 0) {
             return 0; // Aby uniknąć dzielenia przez zero
         }
-
         return suma / iloscElementow;
     }
 }
